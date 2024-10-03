@@ -3,6 +3,9 @@
 Run the following after opening PowerShell
 ```
 cd x64/Debug
+```
+Below shows the format of running the program
+```
 .\run_simplex.bat <dataset> <mode> <isPrint>
 ```
 
