@@ -1,0 +1,30 @@
+﻿cl : command line  warning D9025: overriding '/openmp' with '/openmp:llvm'
+  Main.cpp
+D:\2_Code\PC\Assignment\Assignment\Main.cpp(87,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\2_Code\PC\Assignment\Assignment\Main.cpp(93,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\2_Code\PC\Assignment\Assignment\Main.cpp(179,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\2_Code\PC\Assignment\Assignment\Main.cpp(180,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\2_Code\PC\Assignment\Assignment\Main.cpp(220,66): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\2_Code\PC\Assignment\Assignment\Main.cpp(232,66): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\2_Code\PC\Assignment\Assignment\Main.cpp(247,67): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\2_Code\PC\Assignment\Assignment\Main.cpp(264,66): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\2_Code\PC\Assignment\Assignment\Main.cpp(300,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\2_Code\PC\Assignment\Assignment\Main.cpp(312,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\2_Code\PC\Assignment\Assignment\Main.cpp(325,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Assignment.vcxproj -> D:\2_Code\PC\Assignment\x64\Debug\Assignment.exe
